@@ -2,12 +2,13 @@
 
 ## I decided to switch careers and pursue my passion so here I am!
 
-- 🌱 I started my programming journey by completing the HTML/CSS Skill Track on Codecademy. I am now learning Python.
-- 🔭 I will be studying Computer Science at Vrije Universiteit Amsterdam starting in September '23. 
+- 🔭 I will be studying Computer Science at Vrije Universiteit Amsterdam starting in September '23!
+- 🌱 I started my programming journey by completing the HTML/CSS Skill Track on Codecademy. I am now learning Python and will start C++ in parallel soon, and watching everything CS related on YouTube
+- 🎮 Never gamed before but ever since I found out what happens in the background of making a game - I've been hooked. I am starting to learn how to model (first an isometric lofi aesthetic bedroom) in Blender!
 - 🤖 I'll be updating this repository with mini simple projects and more advanced projects and coursework as I progress through my studies.
-- 💃 I dance Semba (from Angola - I know you were thinking sAmba which is from Brasil), Konpa and Bachata (find out more on my instagram)
+- 💃 My other passion is dancing. I dance Semba (from Angola - I know you were thinking sAmba which is from Brasil), Konpa and Bachata (find out more on my instagram).
 
-### Let's connect!:
+### Let's connect!
 
 [<img align="left" alt="LinkedIn Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
