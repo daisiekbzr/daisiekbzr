@@ -1,6 +1,6 @@
 ## Hi I'm Daisie 👾
 
-###I decided to switch careers and pursue my passion so here I am!
+### I decided to switch careers and pursue my passion so here I am!
 
 - 🔭 I will be studying Computer Science at Vrije Universiteit Amsterdam starting in September '23!
 - 🌱 I started my programming journey with HTML/CSS. I am now learning Python and will start C++ in parallel soon.
