@@ -1,4 +1,4 @@
-### Hi I'm Daisie 👾
+## Hi I'm Daisie 👾
 
 ## I decided to switch careers and pursue my passion so here I am!
 
