@@ -10,7 +10,7 @@
 
 ### Let's connect!
 
-[<img align="left" alt="Instagram Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Linkedin Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="TikTok Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
 
 [linkedin]: https://linkedin.com/in/dace-kebzere/
