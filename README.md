@@ -1,6 +1,6 @@
 ## Hi, I'm Daisie 👾
 
-### I decided to switch careers and pursue my passion so here I am!
+### I decided to switch careers and pursue my passion so here I am 🚀
 
 - 🔭 I'm studying <strong>Computer Science</strong> at Vrije Universiteit Amsterdam. I'm a Business Analyst with a BBA who believes in a lifelong learning so - I flipped my life around.
 - 🌱 I started my programming journey with PostgreSQL and HTML/CSS in March '23. I am now learning <strong>C++</strong>.
