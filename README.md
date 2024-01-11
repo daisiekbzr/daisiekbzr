@@ -8,11 +8,8 @@
 - 🎮 Discovering what happens behind the scenes in game development has led me to dive into <strong>3D modelling</strong>. I started with recreating the Hyperbolic Time Chamber (from Dragonball Z) in <strong>Blender</strong> and a Matcha House. later on will try to train intelligent agents using <strong>Unity's ML-agents</strong> within the room. 
 - 💃 My other passion is <strong>dancing</strong>. I dance Semba, Kizomba, Konpa, Bachata and Salsa.
 
-### Let's connect!
+### Check out my Sketchfab!
 
-[<img align="left" alt="Linkedin Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sketchfab Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sketchfab.svg" />][sketchfab]
 
-
-[linkedin]: https://linkedin.com/in/dace-kebzere/
 [sketchfab]: https://sketchfab.com/daisiekbzr
