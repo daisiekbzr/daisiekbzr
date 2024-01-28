@@ -10,8 +10,6 @@
 
 ![daisiekbzr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daisiekbzr&theme=default&show_icons=true&hide_border=true&layout=compact)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daisiekbzr)](https://github.com/daisiekbzr/github-readme-stats)
-
 [<img align="left" alt="Sketchfab Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sketchfab.svg" />][sketchfab]
 
 [sketchfab]: https://sketchfab.com/daisiekbzr
