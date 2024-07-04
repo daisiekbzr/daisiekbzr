@@ -2,7 +2,7 @@
 
 ### I decided to switch careers and pursue my passion so here I am 🚀
 
-- 🔭 I'm studying <strong>Computer Science</strong> at Vrije Universiteit Amsterdam.
+- 🔭 I'm a 2nd year <strong>Computer Science</strong> student at Vrije Universiteit Amsterdam.
 - 🌱 I started my programming journey with PostgreSQL and HTML/CSS in March '23. I am now learning <strong>x86-64</strong>.
 - 🤖 I'll be updating this repository with solutions to Project Euler problems, projects, but unfortunately the ones I'm working on currently I can't publish as they're school assignments.  
 - 🎮 Discovering what happens behind the scenes in game development has led me to dive into <strong>3D modelling</strong>. I started with recreating the Hyperbolic Time Chamber (from Dragonball Z) and a Matcha House in <strong>Blender</strong>.
